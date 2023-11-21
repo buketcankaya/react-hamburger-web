@@ -1,6 +1,6 @@
 # REACT-BURGER-WEB-SİTE
 
-![](burgerweb.gif)
+![](screen.gif)
 
 
 # Proje Hakkında
